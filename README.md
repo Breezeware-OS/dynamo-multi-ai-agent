@@ -72,6 +72,9 @@
 
 This dynamo sample shows how to use Langgraph4j with SpringAI.
 
+![Multi-Agent drawio](https://github.com/user-attachments/assets/7534d879-b2e6-4fda-bba7-12c539a4def3)
+
+
 ## Prerequisites
 
 1. **Java 8+** installed.

@@ -105,6 +105,9 @@ Use Maven to compile and execute the application:
 mvn clean install -Dmaven.test.skip=true
 mvn exec:java
 ```
+## A Simple Conceptual Demo Using LangGraph4j and Spring AI in Java
+
+[Building Stateful AI Agent-Spring AI & LangGraph4J](https://medium.com/@ganeshmoorthy5999/building-stateful-multi-ai-agents-langgraph4j-spring-ai-c0046e293d00)
 
 ## 🔗 Resources
 

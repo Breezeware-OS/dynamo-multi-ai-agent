@@ -111,6 +111,12 @@ mvn exec:java
 
 ---
 
+## 🔗 Resources
+
+- [LangGraph4j GitHub](https://github.com/bsorrentino/langgraph4j)
+- [LangGraph4j Wiki](https://github.com/bsorrentino/langgraph4j/wiki)
+- [Spring AI](https://docs.spring.io/spring-ai/reference/index.html)
+- [LangGraph](https://www.langchain.com/langgraph)
 
 ## 🗃️ Release notes
 

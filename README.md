@@ -38,6 +38,7 @@
 * **Ensure flexibility and scalability**. Build applications with dynamic entities and choose from multiple multi-tenancy models.
 * **Utilize familiar technologies**: Java, Spring Boot, JavaScript, HTML, ReactJS, SpringAI, BPMN, Hibernate, PostgreSQL.
 * **Expand at will**. Dynamo provides unlimited customization and seamless integration options.
+* **Enable multi-agent building** Design and deploy intelligent, collaborative multi-agent systems to solve complex problems efficiently.
 
 <br/>
 
@@ -59,7 +60,7 @@
     <img src="https://docs.spring.io/spring-ai/reference/_images/spring_ai_logo_with_text.svg" alt="spring-ai" width="40" height="40"/>
   </a>
     <a href="https://github.com/bsorrentino/langgraph4j" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*Z1NtI1D-YEGBJfb7bW4MIA.png" alt="langGraph4J" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="langGraph4J" width="40" height="40"/>
   </a>
 
 </p>
@@ -76,7 +77,9 @@ This dynamo sample shows how to use Langgraph4j with SpringAI.
 1. **Java 8+** installed.
 2. **Maven** for dependency management.
 
+
 ---
+
 
 ## 🚀 Getting Started
 
@@ -99,7 +102,7 @@ weather.api-url=https://api.weatherapi.com/v1
 ### Build and Run
 Use Maven to compile and execute the application:
 ```bash
- mvn clean install -Dmaven.test.skip=true
+mvn clean install -Dmaven.test.skip=true
 mvn exec:java
 ```
 
@@ -117,6 +120,5 @@ Dynamo is constantly evolving. Check out the changelog:
 ## Support
 
 For any **business inquiries**, **technical support**, or to report issues, please contact support@breezeware.net.
-
 
 **Love Dynamo? Give our repo a star :star: :arrow_up:.**

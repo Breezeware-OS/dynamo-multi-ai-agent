@@ -81,9 +81,6 @@ This dynamo sample shows how to use Langgraph4j with SpringAI.
 2. **Maven** for dependency management.
 
 
----
-
-
 ## 🚀 Getting Started
 
 ### Clone the Repository
@@ -108,8 +105,6 @@ Use Maven to compile and execute the application:
 mvn clean install -Dmaven.test.skip=true
 mvn exec:java
 ```
-
----
 
 ## 🔗 Resources
 

@@ -11,7 +11,7 @@
 	<groupId>net.breezeware.dyanmo.ai</groupId>
 	<artifactId>dynamo-multi-ai-agent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dynamo-ai-agent</name>
+	<name>dynamo-multi-ai-agent</name>
 	<description>Demo project for Dynamo Multi AI Agent</description>
 	<url/>
 	<licenses>
